@@ -3,8 +3,8 @@ views bot
 
 Steps
 
-1-) Download opera
-2-) enable vpn
-3-) enable adblock
-4-) settings > delete cookies when you exit opera enable
-5-) set default browser
+1-) Download opera<br />
+2-) enable vpn<br />
+3-) enable adblock<br />
+4-) settings > delete cookies when you exit opera enable<br />
+5-) set default browser<br />
